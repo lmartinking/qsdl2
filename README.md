@@ -5,7 +5,13 @@ An experiment in binding SDL2, for kdb+/q.
 
 Ever wanted to write a graphical app or game in q? Now you can!
 
-# BIG FAT WARNING!
+## Currently implemented
+
+ * Screen/window setup
+ * Basic input events (mouse, keyboard)
+ * Basic rendering (points, lines, rectangles)
+
+## BIG FAT WARNING!
 
 This is *experimental*, there are no guarantees about stability or data.
 
